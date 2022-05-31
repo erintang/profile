@@ -19,9 +19,9 @@
 軟體工程師對我來說，是一份穩定，不斷疊加、深入並有發展性的職業;<br>
 在了解大範圍工作內容之後，嚮往能在前端工程師領域專研。<br>
 <br>
-4月底是先上我聯成外語送的課程“JAVA!!JAVA!!程式人必學語言”，<br>
-之後是在youtube找影片自學，主要是看“黑馬程序員”、“千锋教育”。<br>
-五月中開始，是看AppWorks推薦Udacity的Javascript免費影片、<br>
+4月底，是先上我聯成外語送的課程“JAVA!!JAVA!!程式人必學語言”，<br>
+之後看youtube影片做學習，主要是“黑馬程序員”、“千锋教育”兩個頻道的java部分。<br>
+五月中開始，是看AppWorks推薦Udacity的Javascript免費影片;<br>
 和剛開始在freeCodeCamp按順序上課，在web design部分。<br>
 另外，之前已報名聯成6月APCS程式先修檢定訓練班，也還是會把它上完。<br>
 之後自學方向是想在freeCodeCamp或The Odin Project上，<br>
