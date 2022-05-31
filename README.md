@@ -22,7 +22,7 @@
 4月底是先上我聯成外語送的課程“JAVA!!JAVA!!程式人必學語言”，<br>
 之後是在youtube找影片自學，主要是看“黑馬程序員”、“千锋教育”。<br>
 五月中開始，是看AppWorks推薦Udacity的Javascript免費影片。<br>
-另外因為之前已報名聯成6月APCS程式先修檢定訓練班，也還是會把它上完。<br>
+另外，之前已報名聯成6月APCS程式先修檢定訓練班，也還是會把它上完。<br>
 之後自學方向是想在freeCodeCamp或The Odin Project上，<br>
 繼續HTML、CSS與JavaScript的課程。<br>
 <br>
@@ -30,4 +30,13 @@
 <br>
 <b>為什麼</b><br>
 <b>想進AppWorks School</b><br>
+<br>
+因為自學，多少會擔心努力錯誤。<br>
+希望能在系統性環境下學習，更明確的往正確方向前進;<br>
+還有同儕的氛圍下，大家不只可以一起努力、督促自己、互相幫助，<br>
+也能藉由別人的問題開啟思考。<br>
+另外AppWorks School也已開啟數梯學員，<br>
+相信可以經由老師專業更好的學習。<br>
+<br>
+<br>
 
