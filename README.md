@@ -22,7 +22,7 @@
 4月底，是先上我聯成外語送的課程“JAVA!!JAVA!!程式人必學語言”，<br>
 之後看youtube影片做學習，主要是“黑馬程序員”、“千锋教育”兩個頻道的java部分。<br>
 五月中開始，是看AppWorks推薦Udacity的Javascript免費影片;<br>
-和剛開始在freeCodeCamp按順序上課，在web design部分。<br>
+和剛開始在freeCodeCamp按順序上課，進度在web design部分。<br>
 另外，之前已報名聯成6月APCS程式先修檢定訓練班，也還是會把它上完。<br>
 之後自學方向是想在freeCodeCamp或The Odin Project上，<br>
 繼續HTML、CSS與JavaScript的課程。<br>
